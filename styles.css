@@ -40,4 +40,8 @@ button{
     background-color: rgb(132, 189, 93);
     width: 263px;
     height: 50px;
+    text-align: center;
+    font-size: 34px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: beige;
 }
