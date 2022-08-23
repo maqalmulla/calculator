@@ -15,7 +15,14 @@ body{
 }
 
 .top{
+    background-color: rgb(132, 189, 93);
     border-bottom: 3px solid black;
+    width: 263px;
+    height: 100px;
+    text-align: center;
+    font-size: 34px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: beige;
 }
 
 .bottom{
@@ -36,8 +43,12 @@ button{
     border: 2px solid black;
 }
 
+.previous-result{
+    font-size: 22px;
+    padding-top: 10px;
+}
+
 .result{
-    background-color: rgb(132, 189, 93);
     width: 263px;
     height: 50px;
     text-align: center;
